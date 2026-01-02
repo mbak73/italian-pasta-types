@@ -7,4 +7,4 @@ Italy is famous for its delicious and diverse types of pasta. Each variety has i
 
 - [Spaghetti](spaghetti.md).
 - [Tagliatelle](tahliatelle.md).
-- -[Fusillis](fusilli.md).
+- [Fusillis](fusilli.md).
